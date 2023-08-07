@@ -15,11 +15,11 @@
 
 ## how to use
 <div>
-    1. clone github
-    2. npm install 
-    3. npm start with nodemon
-    4. enjoy
-
-    <h1> Happy Process😁😁 </h1>
+  <h5>  1. clone github </h5>
+  <h5>  2. npm install </h5>
+  <h5>  3. npm start with nodemon </h5>
+  <h5>  4. enjoy </h5>
+ 
 </div>
+  <h1> Happy Process😁😁 </h1>
 
